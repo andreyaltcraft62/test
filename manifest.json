@@ -1,0 +1,5 @@
+{
+  "permissions": [ "activeTab" ],
+  "name": "https://andreyaltcraft62.github.io/push",
+  "display": "standalone"
+}
